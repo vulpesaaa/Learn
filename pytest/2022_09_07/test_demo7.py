@@ -14,7 +14,7 @@ def order(first_entry):
     return [first_entry]
 
 
-# test_string和test_int都请求了order这个fixture，互不干扰
+# test_string和test_int都重新请求了order这个fixture，互不干扰,在对应的测试中有效，而不是同一对象
 def test_string(order):
     # Act
     order.append("b")
