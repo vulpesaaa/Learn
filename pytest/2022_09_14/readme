@@ -1,0 +1,16 @@
+第几节第几个用例
+测试用例命名规范test_核心功能_特性编号_例子编号.py
+eg:
+test_fixture_demo1_eg1.py
+test模板：
+conftest模板
+"作者：
+时间
+事件：
+例子
+"
+
+import pytest
+
+
+
