@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "80a913ad211ed273",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb160439789482c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "层级结构.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ec0e35cdfe2a9af",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3836a330521e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1718a7e90e67083d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5aa3c90913c7a9d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b68ece74267b319",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b047875feb68fe37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ea3a90f6adb9d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708c1547769b1b3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "层级结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a19745cf764f7263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "层级结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee5f4533fa3ce291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "847be35922edb9a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "层级结构.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb160439789482c9",
+  "lastOpenFiles": [
+    "1.安装和使用/md/1.1 安装pytest.md",
+    "层级结构.md",
+    "1.安装和使用/md/1.安装pytest.md",
+    "1.安装和使用/md/1.安装和使用.md",
+    "1.安装和使用/md/1.2 创建第一个demo测试用例.md",
+    "1.安装和使用/md/1.1安装pytest.md",
+    "1.安装和使用/md/1.1安装pytest 1.md",
+    "1.安装和使用/md/1.1安装pytest 2.md",
+    "使用手册.md",
+    "1.安装和使用/md/1.安装和使用 1.md"
+  ]
+}
