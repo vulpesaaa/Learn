@@ -8,7 +8,7 @@
     - [2.4 monkeypath/mock模块和环境](2.核心功能/md/2.4%20monkeypath_mock/2.4monkeypath_mock.md)
     - [2.5 运行doctests](2.核心功能/md/2.5%20doctests/2.5doctests.md)
     - [2.6 失败测试重新运行](2.核心功能/md/2.6%20其他/2.6其他)
-  - [3.测试输出和结果](3.测试输出和结果/md/../readme.md)
+  - [3.测试输出和结果](/md/pytest/3.测试输出和结果/readme.md)
     - [3.1 处理测试失败](3.测试输出和结果/md/3.1处理测试失败.md)
     - [3.2 管理pytest的输出](3.测试输出和结果/md/3.2管理pytest的输出.md)
     - [3.3 管理日志记录](3.测试输出和结果/md/3.3管理日志记录.md)
