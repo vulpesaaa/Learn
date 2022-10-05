@@ -1,4 +1,4 @@
-[回到目录](../../readme.md)
+[回到目录](../readme.md)
 
 # 目录
 - [2.1断言assert](md/2.1断言assert/2.1断言assert.md#断言assert)
